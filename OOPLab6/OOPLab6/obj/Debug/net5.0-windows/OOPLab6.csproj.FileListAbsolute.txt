@@ -1,0 +1,54 @@
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.exe
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.deps.json
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.runtimeconfig.json
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.dll
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\ref\OOPLab6.dll
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.pdb
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.Form1.resources
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.dll
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\ref\OOPLab6.dll
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.pdb
+C:\Users\Admin\source\repos\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.genruntimeconfig.cache
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.exe
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.deps.json
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.runtimeconfig.json
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.runtimeconfig.dev.json
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.dll
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.pdb
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.csproj.AssemblyReference.cache
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.Form1.resources
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.csproj.GenerateResource.cache
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.AssemblyInfoInputs.cache
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.AssemblyInfo.cs
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.csproj.CoreCompileInputs.cache
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.dll
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\refint\OOPLab6.dll
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.pdb
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.genruntimeconfig.cache
+C:\Users\Андрій\Desktop\Новая папка\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\ref\OOPLab6.dll
+D:\институт\oop\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.exe
+D:\институт\oop\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.deps.json
+D:\институт\oop\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.runtimeconfig.json
+D:\институт\oop\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.runtimeconfig.dev.json
+D:\институт\oop\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.dll
+D:\институт\oop\OOPLab6\OOPLab6\bin\Debug\net5.0-windows\OOPLab6.pdb
+D:\институт\oop\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.csproj.AssemblyReference.cache
+D:\институт\oop\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.Form1.resources
+D:\институт\oop\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.csproj.GenerateResource.cache
+D:\институт\oop\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\институт\oop\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.AssemblyInfoInputs.cache
+D:\институт\oop\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.AssemblyInfo.cs
+D:\институт\oop\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.csproj.CoreCompileInputs.cache
+D:\институт\oop\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.dll
+D:\институт\oop\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\refint\OOPLab6.dll
+D:\институт\oop\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.pdb
+D:\институт\oop\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\OOPLab6.genruntimeconfig.cache
+D:\институт\oop\OOPLab6\OOPLab6\obj\Debug\net5.0-windows\ref\OOPLab6.dll

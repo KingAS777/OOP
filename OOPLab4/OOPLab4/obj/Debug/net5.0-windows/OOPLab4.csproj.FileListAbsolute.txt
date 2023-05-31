@@ -1,0 +1,72 @@
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.exe
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.deps.json
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.runtimeconfig.json
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.dll
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\ref\OOPLab4.dll
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.pdb
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.Form1.resources
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.dll
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\ref\OOPLab4.dll
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.pdb
+C:\Users\Admin\source\repos\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.genruntimeconfig.cache
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.exe
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.deps.json
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.runtimeconfig.json
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.dll
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\ref\OOPLab4.dll
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.pdb
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.Form1.resources
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.dll
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\ref\OOPLab4.dll
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.pdb
+C:\Users\Admin\Desktop\OOP\ООП Андрей\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.genruntimeconfig.cache
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.exe
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.deps.json
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.runtimeconfig.json
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.runtimeconfig.dev.json
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.dll
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.pdb
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.csproj.AssemblyReference.cache
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.Form1.resources
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.csproj.GenerateResource.cache
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.AssemblyInfoInputs.cache
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.AssemblyInfo.cs
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.csproj.CoreCompileInputs.cache
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.dll
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\refint\OOPLab4.dll
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.pdb
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.genruntimeconfig.cache
+C:\Users\Андрій\Desktop\Новая папка\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\ref\OOPLab4.dll
+D:\институт\oop\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.exe
+D:\институт\oop\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.deps.json
+D:\институт\oop\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.runtimeconfig.json
+D:\институт\oop\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.runtimeconfig.dev.json
+D:\институт\oop\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.dll
+D:\институт\oop\OOPLab4\OOPLab4\bin\Debug\net5.0-windows\OOPLab4.pdb
+D:\институт\oop\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.csproj.AssemblyReference.cache
+D:\институт\oop\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.Form1.resources
+D:\институт\oop\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.csproj.GenerateResource.cache
+D:\институт\oop\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\институт\oop\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.AssemblyInfoInputs.cache
+D:\институт\oop\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.AssemblyInfo.cs
+D:\институт\oop\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.csproj.CoreCompileInputs.cache
+D:\институт\oop\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.dll
+D:\институт\oop\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\refint\OOPLab4.dll
+D:\институт\oop\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.pdb
+D:\институт\oop\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\OOPLab4.genruntimeconfig.cache
+D:\институт\oop\OOPLab4\OOPLab4\obj\Debug\net5.0-windows\ref\OOPLab4.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DqzNld9nEBWNZPGc2hydwPx0ijb0C+U9E2beCExFhidWfmqQvKn5roA2Y4FXC5tq7GcdXF5Hcb8uJ0/zNhYk+g==",
+  "success": true,
+  "projectFilePath": "D:\\институт\\oop\\OOPLab6\\OOPLab6\\OOPLab6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрій\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Андрій\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Андрій\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Андрій\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

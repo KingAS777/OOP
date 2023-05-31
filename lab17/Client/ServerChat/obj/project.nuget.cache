@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "da+1MSDnUr6juHBL7GugtauQ/2r0sNoBmtksvyTyyEzwN/z/F1ks4dOU8tj+LfSTxBBhs8BuwrnmyKb+hPYRNw==",
+  "success": true,
+  "projectFilePath": "D:\\институт\\oop\\lab17\\Client\\ServerChat\\ServerChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрій\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Андрій\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Андрій\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Андрій\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

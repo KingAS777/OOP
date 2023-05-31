@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JYQNy6MkqFYzHXiTpJgPN0euBjCasvasCzJnIqYTJmmcq8Yg6J5yrDM2Skx5PDLbn/nWVL29DKtEEWQr8Gov3w==",
+  "success": true,
+  "projectFilePath": "D:\\институт\\oop\\OOPLab3\\WinFormsApp2\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрій\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Андрій\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Андрій\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Андрій\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
